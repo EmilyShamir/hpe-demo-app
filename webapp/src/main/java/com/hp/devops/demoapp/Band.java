@@ -12,8 +12,8 @@ import java.security.InvalidParameterException;
  * To change this template use File | Settings | File Templates.
  */
 public class Band {
-	public int id;
-	public String name = "";
+	public int id; 
+	public String name = ""; // TODO EmilyS
 	public String logo = "1";
 	public String song = "1";
 	public int votes = 0;
