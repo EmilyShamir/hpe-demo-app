@@ -23,6 +23,7 @@ import static org.junit.Assert.assertTrue;
 
 public class RestServletTest {
 
+	// EmilyS - Added comment!
 	private static RequestSpecification spec;
 	private static ConfigurationService configurationService = ConfigurationService.getInstance();
 
